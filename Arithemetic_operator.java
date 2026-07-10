@@ -15,10 +15,22 @@ public class Arithemetic_operator {
         //z = x * y
         //z = x / y
 
-        z = x % y;
+        //x += y
+        //x -= y
+        //x *= y
+        //x /= y
+        //x %= y
 
-        System.out.println(z);
+        // Increment and Decrement Operator
 
+        //x += 1 or x++
+        //x -= 1 or x--
+
+        // Order of Operation[ P-E-M-D-M-A-S]
+
+        double result = 3 + (4 * (8 / 4));
+
+        System.out.println(result);
 
     }
 }
