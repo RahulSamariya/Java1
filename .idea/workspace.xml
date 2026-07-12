@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7d11ef0-dcc9-43b3-952c-3fcbd4407681" name="Changes" comment="" />
+    <list default="true" id="f7d11ef0-dcc9-43b3-952c-3fcbd4407681" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/if_statements.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +44,7 @@
     "Application.Scanner_example.executor": "Run",
     "Application.Shopping_Cart_Program.executor": "Run",
     "Application.area_of_rectangle.executor": "Run",
+    "Application.if_statements.executor": "Run",
     "Application.mad_libs_game.executor": "Run",
     "Application.main.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
