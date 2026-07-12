@@ -33,7 +33,7 @@ class Scanner_example {
             System.out.println("you are NOT enrolled");
         }
 
-        // Common issuse when accepting the integer and then accepting the string
+        // Common issue when accepting the integer and then accepting the string
 
         Scanner scanner1 = new Scanner(System.in);
 
