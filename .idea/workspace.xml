@@ -40,13 +40,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Arithemetic_operator.executor": "Run",
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Coverage",
     "Application.Scanner_example.executor": "Run",
     "Application.Shopping_Cart_Program.executor": "Run",
     "Application.area_of_rectangle.executor": "Run",
     "Application.if_statements.executor": "Run",
     "Application.mad_libs_game.executor": "Run",
-    "Application.main.executor": "Debug",
+    "Application.main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -108,5 +108,8 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java$Main.ic" NAME="Main Coverage Results" MODIFIED="1784057216998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
