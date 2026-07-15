@@ -10,13 +10,24 @@ public class random_number {
         int number2;
         int number3;
 
+        boolean isHead;
+
+        isHead = random.nextBoolean();
+
         number1 = random.nextInt(1, 6);
         number2 = random.nextInt(1, 6);
         number3 = random.nextInt(1, 6);
 
-        System.out.println(number3);
-        System.out.println(number2);
         System.out.println(number1);
+        System.out.println(number2);
+        System.out.println(number3);
+
+        if(isHead){
+            System.out.println("Heads");
+        }
+        else{
+            System.out.println("Tails");
+        }
 
     }
 }
