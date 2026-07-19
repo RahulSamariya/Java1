@@ -30,7 +30,6 @@ public class math_fuc {
         System.out.println("Enter the length of side A: ");
         b = scanner.nextDouble();
 
-
         System.out.println(result);
     }
 }

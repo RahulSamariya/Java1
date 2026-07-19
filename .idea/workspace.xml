@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7d11ef0-dcc9-43b3-952c-3fcbd4407681" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/circleCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printf_function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math_fuc.java" beforeDir="false" afterPath="$PROJECT_DIR$/math_fuc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/math_fuc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/math_fuc.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="21" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -25,6 +34,69 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/main.java" root0="SKIP_INSPECTION" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.2091580915464578E-7" />
+      <entry key="MS500" value="0.04724584346126141" />
+      <entry key="S2" value="0.8291466309191271" />
+      <entry key="S5" value="2.756925667939193" />
+      <entry key="S10" value="5.410297638834476" />
+      <entry key="S30" value="11.278719021869966" />
+      <entry key="S60" value="14.422058968323313" />
+      <entry key="M2" value="16.490555888647936" />
+      <entry key="M5" value="17.936860363826973" />
+      <entry key="M10" value="18.457940284159417" />
+      <entry key="M15" value="18.63624930482051" />
+      <entry key="M30" value="18.816924029818356" />
+      <entry key="H1" value="18.90815961588545" />
+      <entry key="H2" value="18.954003925815883" />
+      <entry key="H4" value="18.976982956957297" />
+      <entry key="D1" value="18.996161183432235" />
+      <entry key="W1" value="18.999451532874005" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000004486208474" />
+      <entry key="S5" value="1.0028890281968896" />
+      <entry key="S10" value="1.053749680900352" />
+      <entry key="S30" value="1.377391368886908" />
+      <entry key="S60" value="1.6143218772654186" />
+      <entry key="M2" value="1.783786882555085" />
+      <entry key="M5" value="1.907150190992873" />
+      <entry key="M10" value="1.952444324353331" />
+      <entry key="M15" value="1.968039470518224" />
+      <entry key="M30" value="1.9838899687049487" />
+      <entry key="H1" value="1.9919122787348424" />
+      <entry key="H2" value="1.9959479297306872" />
+      <entry key="H4" value="1.9979719082873462" />
+      <entry key="D1" value="1.9996616987242015" />
+      <entry key="W1" value="1.9999516642378412" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.7054348345073965E-5" />
+      <entry key="MS500" value="0.13952303690324447" />
+      <entry key="S2" value="1.2353999823407427" />
+      <entry key="S5" value="3.3638276345684446" />
+      <entry key="S10" value="6.1780510187305895" />
+      <entry key="S30" value="12.492179612432158" />
+      <entry key="S60" value="15.934940632962748" />
+      <entry key="M2" value="18.217087553394535" />
+      <entry key="M5" value="19.819262433055105" />
+      <entry key="M10" value="20.397676418884735" />
+      <entry key="M15" value="20.595740306416925" />
+      <entry key="M30" value="20.796501056498048" />
+      <entry key="H1" value="20.89790564487484" />
+      <entry key="H2" value="20.948866273146916" />
+      <entry key="H4" value="20.974411458050486" />
+      <entry key="D1" value="20.99573222859877" />
+      <entry key="W1" value="20.999390244503232" />
+    </decayedShown>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -37,33 +109,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Arithemetic_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.Scanner_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shopping_Cart_Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.area_of_rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.if_statements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mad_libs_game.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.math_fuc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.random_number.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arithemetic_operator.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Scanner_example.executor": "Run",
+    "Application.Shopping_Cart_Program.executor": "Run",
+    "Application.area_of_rectangle.executor": "Run",
+    "Application.if_statements.executor": "Run",
+    "Application.mad_libs_game.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.math_fuc.executor": "Run",
+    "Application.printf_function.executor": "Run",
+    "Application.random_number.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
