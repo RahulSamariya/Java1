@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7d11ef0-dcc9-43b3-952c-3fcbd4407681" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/circleCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/printf_function.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math_fuc.java" beforeDir="false" afterPath="$PROJECT_DIR$/math_fuc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coding/math_fuc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/math_fuc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compound_Interest_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compound_Interest_Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,65 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000904" />
+      <entry key="S2" value="1.0005748782021147" />
+      <entry key="S5" value="1.0643814647469618" />
+      <entry key="S10" value="1.3442595406684683" />
+      <entry key="S30" value="2.141376653750169" />
+      <entry key="S60" value="3.1462443701557814" />
+      <entry key="M2" value="6.849371824886631" />
+      <entry key="M5" value="19.74479649332306" />
+      <entry key="M10" value="31.57448858538629" />
+      <entry key="M15" value="37.338727740398355" />
+      <entry key="M30" value="44.37993339311707" />
+      <entry key="H1" value="48.47108727118309" />
+      <entry key="H2" value="50.70642989120354" />
+      <entry key="H4" value="52.56126141668974" />
+      <entry key="D1" value="63.85682421232961" />
+      <entry key="W1" value="70.55711330593977" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="9.43018542132459E-149" />
+      <entry key="MS500" value="2.482584539342041E-30" />
+      <entry key="S2" value="3.96941047660704E-8" />
+      <entry key="S5" value="0.0010951923644066748" />
+      <entry key="S10" value="0.033097251055096935" />
+      <entry key="S30" value="0.3615137034918305" />
+      <entry key="S60" value="1.1350639001652911" />
+      <entry key="M2" value="3.4727317183546775" />
+      <entry key="M5" value="9.275038382593042" />
+      <entry key="M10" value="13.718703703453818" />
+      <entry key="M15" value="15.749801981900651" />
+      <entry key="M30" value="18.151311843449875" />
+      <entry key="H1" value="19.514331234393044" />
+      <entry key="H2" value="20.24410151985557" />
+      <entry key="H4" value="20.694040537338438" />
+      <entry key="D1" value="22.099203365445774" />
+      <entry key="W1" value="22.841880079168295" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.004518313218380027" />
+      <entry key="MS500" value="0.33962157113730596" />
+      <entry key="S2" value="0.763930825690471" />
+      <entry key="S5" value="0.960854938639611" />
+      <entry key="S10" value="1.3166793421614535" />
+      <entry key="S30" value="2.4690174145725523" />
+      <entry key="S60" value="4.240437434724256" />
+      <entry key="M2" value="10.26080702114511" />
+      <entry key="M5" value="28.953867121653897" />
+      <entry key="M10" value="45.24409171206167" />
+      <entry key="M15" value="53.05084682335421" />
+      <entry key="M30" value="62.509464545686406" />
+      <entry key="H1" value="67.97369109883329" />
+      <entry key="H2" value="70.94444250265737" />
+      <entry key="H4" value="73.25217942477042" />
+      <entry key="D1" value="85.95544972650956" />
+      <entry key="W1" value="93.39890618008263" />
+    </decayedShown>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -52,6 +107,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Arithemetic_operator.executor": "Run",
+    "Application.Compound_Interest_Calculator.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Scanner_example.executor": "Run",
     "Application.Shopping_Cart_Program.executor": "Run",
