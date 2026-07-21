@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7d11ef0-dcc9-43b3-952c-3fcbd4407681" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Sub_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weight_convertor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Compound_Interest_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Compound_Interest_Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/String_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="21" />
+    <option name="cachedIndexableFilesCount" value="26" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,61 +38,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000000904" />
-      <entry key="S2" value="1.0005748782021147" />
-      <entry key="S5" value="1.0643814647469618" />
-      <entry key="S10" value="1.3442595406684683" />
-      <entry key="S30" value="2.141376653750169" />
-      <entry key="S60" value="3.1462443701557814" />
-      <entry key="M2" value="6.849371824886631" />
-      <entry key="M5" value="19.74479649332306" />
-      <entry key="M10" value="31.57448858538629" />
-      <entry key="M15" value="37.338727740398355" />
-      <entry key="M30" value="44.37993339311707" />
-      <entry key="H1" value="48.47108727118309" />
-      <entry key="H2" value="50.70642989120354" />
-      <entry key="H4" value="52.56126141668974" />
-      <entry key="D1" value="63.85682421232961" />
-      <entry key="W1" value="70.55711330593977" />
+      <entry key="MS100" value="1.0000000000000002" />
+      <entry key="MS500" value="1.0006523799210945" />
+      <entry key="S2" value="1.1600901023380563" />
+      <entry key="S5" value="1.5177330529738853" />
+      <entry key="S10" value="1.8891420407341246" />
+      <entry key="S30" value="2.7827923025629833" />
+      <entry key="S60" value="4.670645020042845" />
+      <entry key="M2" value="9.986396342666723" />
+      <entry key="M5" value="26.31913098223711" />
+      <entry key="M10" value="49.738085440227515" />
+      <entry key="M15" value="69.18974689265579" />
+      <entry key="M30" value="108.0364569856342" />
+      <entry key="H1" value="143.34596911009245" />
+      <entry key="H2" value="168.77067182049345" />
+      <entry key="H4" value="192.43612917624313" />
+      <entry key="D1" value="303.2006052383916" />
+      <entry key="W1" value="366.9592176385782" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="9.43018542132459E-149" />
-      <entry key="MS500" value="2.482584539342041E-30" />
-      <entry key="S2" value="3.96941047660704E-8" />
-      <entry key="S5" value="0.0010951923644066748" />
-      <entry key="S10" value="0.033097251055096935" />
-      <entry key="S30" value="0.3615137034918305" />
-      <entry key="S60" value="1.1350639001652911" />
-      <entry key="M2" value="3.4727317183546775" />
-      <entry key="M5" value="9.275038382593042" />
-      <entry key="M10" value="13.718703703453818" />
-      <entry key="M15" value="15.749801981900651" />
-      <entry key="M30" value="18.151311843449875" />
-      <entry key="H1" value="19.514331234393044" />
-      <entry key="H2" value="20.24410151985557" />
-      <entry key="H4" value="20.694040537338438" />
-      <entry key="D1" value="22.099203365445774" />
-      <entry key="W1" value="22.841880079168295" />
+      <entry key="MS100" value="1.1371517248157859E-8" />
+      <entry key="MS500" value="0.025772923394065037" />
+      <entry key="S2" value="0.40067377768413814" />
+      <entry key="S5" value="0.6936117479072447" />
+      <entry key="S10" value="0.8331885941610327" />
+      <entry key="S30" value="1.0477544749490404" />
+      <entry key="S60" value="1.632450481301827" />
+      <entry key="M2" value="3.3631562560910924" />
+      <entry key="M5" value="8.03489794928777" />
+      <entry key="M10" value="13.238244427076669" />
+      <entry key="M15" value="17.115471035284507" />
+      <entry key="M30" value="24.748940119675616" />
+      <entry key="H1" value="31.901371791676606" />
+      <entry key="H2" value="37.28836223114315" />
+      <entry key="H4" value="43.36348264870748" />
+      <entry key="D1" value="78.74301379419693" />
+      <entry key="W1" value="98.71043298526342" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.004518313218380027" />
-      <entry key="MS500" value="0.33962157113730596" />
-      <entry key="S2" value="0.763930825690471" />
-      <entry key="S5" value="0.960854938639611" />
-      <entry key="S10" value="1.3166793421614535" />
-      <entry key="S30" value="2.4690174145725523" />
-      <entry key="S60" value="4.240437434724256" />
-      <entry key="M2" value="10.26080702114511" />
-      <entry key="M5" value="28.953867121653897" />
-      <entry key="M10" value="45.24409171206167" />
-      <entry key="M15" value="53.05084682335421" />
-      <entry key="M30" value="62.509464545686406" />
-      <entry key="H1" value="67.97369109883329" />
-      <entry key="H2" value="70.94444250265737" />
-      <entry key="H4" value="73.25217942477042" />
-      <entry key="D1" value="85.95544972650956" />
-      <entry key="W1" value="93.39890618008263" />
+      <entry key="MS100" value="3.1117215554667024E-4" />
+      <entry key="MS500" value="0.20947509097229464" />
+      <entry key="S2" value="1.086785766890355" />
+      <entry key="S5" value="1.9149772218705197" />
+      <entry key="S10" value="2.535292855683383" />
+      <entry key="S30" value="3.7439722007745644" />
+      <entry key="S60" value="6.231963287671705" />
+      <entry key="M2" value="13.271749983714441" />
+      <entry key="M5" value="34.26606627624188" />
+      <entry key="M10" value="62.88683203646424" />
+      <entry key="M15" value="86.2200899211542" />
+      <entry key="M30" value="132.71831539454612" />
+      <entry key="H1" value="175.2031558334114" />
+      <entry key="H2" value="206.0332077675734" />
+      <entry key="H4" value="235.78491960903176" />
+      <entry key="D1" value="381.9398294962901" />
+      <entry key="W1" value="465.66900787072836" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -111,13 +114,17 @@
     "Application.Main.executor": "Run",
     "Application.Scanner_example.executor": "Run",
     "Application.Shopping_Cart_Program.executor": "Run",
+    "Application.String_method.executor": "Run",
+    "Application.Sub_String.executor": "Debug",
     "Application.area_of_rectangle.executor": "Run",
     "Application.if_statements.executor": "Run",
     "Application.mad_libs_game.executor": "Run",
     "Application.main.executor": "Run",
     "Application.math_fuc.executor": "Run",
+    "Application.nested_if_else.executor": "Run",
     "Application.printf_function.executor": "Run",
     "Application.random_number.executor": "Run",
+    "Application.weight_convertor.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -135,9 +142,16 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.weight_convertor">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sub_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sub_String" />
       <module name="Coding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,8 +164,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="weight_convertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weight_convertor" />
+      <module name="Coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.weight_convertor" />
+        <item itemvalue="Application.Sub_String" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
       </list>
