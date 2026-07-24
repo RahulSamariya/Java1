@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<list default="true" id="f7d11ef0-dcc9-43b3-952c-3fcbd4407681" name="Changes" comment="program 19">
-      <change afterPath="$PROJECT_DIR$/Sub_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weight_convertor.java" afterDir="false" />
+    <list default="true" id="ca2cf30f-5280-41ba-b10f-6cc6f5e0e104" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/String_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/swtich_case.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/swtich_case.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swtich_case.java" beforeDir="false" afterPath="$PROJECT_DIR$/swtich_case.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-<option name="cachedIndexableFilesCount" value="29" />
+    <option name="cachedIndexableFilesCount" value="32" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,106 +29,84 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/main.java" root0="SKIP_INSPECTION" />
-  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000000002" />
-      <entry key="MS500" value="1.0006523799210945" />
-      <entry key="S2" value="1.1600901023380563" />
-      <entry key="S5" value="1.5177330529738853" />
-      <entry key="S10" value="1.8891420407341246" />
-      <entry key="S30" value="2.7827923025629833" />
-      <entry key="S60" value="4.670645020042845" />
-      <entry key="M2" value="9.986396342666723" />
-      <entry key="M5" value="26.31913098223711" />
-      <entry key="M10" value="49.738085440227515" />
-      <entry key="M15" value="69.18974689265579" />
-      <entry key="M30" value="108.0364569856342" />
-      <entry key="H1" value="143.34596911009245" />
-      <entry key="H2" value="168.77067182049345" />
-      <entry key="H4" value="192.43612917624313" />
-      <entry key="D1" value="303.2006052383916" />
-      <entry key="W1" value="366.9592176385782" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000022" />
+      <entry key="S2" value="1.0002447391334992" />
+      <entry key="S5" value="1.0563784653105732" />
+      <entry key="S10" value="1.4054579812216523" />
+      <entry key="S30" value="3.022565826856014" />
+      <entry key="S60" value="6.285590864045301" />
+      <entry key="M2" value="13.51662787124776" />
+      <entry key="M5" value="28.480727941362307" />
+      <entry key="M10" value="49.34338983234605" />
+      <entry key="M15" value="67.78187689262894" />
+      <entry key="M30" value="104.1242359815837" />
+      <entry key="H1" value="135.4121546955654" />
+      <entry key="H2" value="156.3479898923866" />
+      <entry key="H4" value="168.51669571963987" />
+      <entry key="D1" value="179.65506402352068" />
+      <entry key="W1" value="181.66252724386396" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.1371517248157859E-8" />
-      <entry key="MS500" value="0.025772923394065037" />
-      <entry key="S2" value="0.40067377768413814" />
-      <entry key="S5" value="0.6936117479072447" />
-      <entry key="S10" value="0.8331885941610327" />
-      <entry key="S30" value="1.0477544749490404" />
-      <entry key="S60" value="1.632450481301827" />
-      <entry key="M2" value="3.3631562560910924" />
-      <entry key="M5" value="8.03489794928777" />
-      <entry key="M10" value="13.238244427076669" />
-      <entry key="M15" value="17.115471035284507" />
-      <entry key="M30" value="24.748940119675616" />
-      <entry key="H1" value="31.901371791676606" />
-      <entry key="H2" value="37.28836223114315" />
-      <entry key="H4" value="43.36348264870748" />
-      <entry key="D1" value="78.74301379419693" />
-      <entry key="W1" value="98.71043298526342" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.9663614532979723E-90" />
+      <entry key="S2" value="3.74468971626691E-23" />
+      <entry key="S5" value="1.0699629537704325E-9" />
+      <entry key="S10" value="3.278718512349902E-5" />
+      <entry key="S30" value="0.03624147980018047" />
+      <entry key="S60" value="0.2474978953165357" />
+      <entry key="M2" value="0.7644618465087746" />
+      <entry key="M5" value="2.192759037122545" />
+      <entry key="M10" value="4.636753676719482" />
+      <entry key="M15" value="6.810815031691877" />
+      <entry key="M30" value="11.042878520475835" />
+      <entry key="H1" value="14.652631176894948" />
+      <entry key="H2" value="17.05850453361095" />
+      <entry key="H4" value="18.45458099022499" />
+      <entry key="D1" value="19.731325958704872" />
+      <entry key="W1" value="19.961335914897774" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.1117215554667024E-4" />
-      <entry key="MS500" value="0.20947509097229464" />
-      <entry key="S2" value="1.086785766890355" />
-      <entry key="S5" value="1.9149772218705197" />
-      <entry key="S10" value="2.535292855683383" />
-      <entry key="S30" value="3.7439722007745644" />
-      <entry key="S60" value="6.231963287671705" />
-      <entry key="M2" value="13.271749983714441" />
-      <entry key="M5" value="34.26606627624188" />
-      <entry key="M10" value="62.88683203646424" />
-      <entry key="M15" value="86.2200899211542" />
-      <entry key="M30" value="132.71831539454612" />
-      <entry key="H1" value="175.2031558334114" />
-      <entry key="H2" value="206.0332077675734" />
-      <entry key="H4" value="235.78491960903176" />
-      <entry key="D1" value="381.9398294962901" />
-      <entry key="W1" value="465.66900787072836" />
+      <entry key="MS100" value="4.690170841333042E-5" />
+      <entry key="MS500" value="0.13621901402666692" />
+      <entry key="S2" value="0.6077070918454822" />
+      <entry key="S5" value="0.8687340344756385" />
+      <entry key="S10" value="1.282677820685263" />
+      <entry key="S30" value="2.9726024642697295" />
+      <entry key="S60" value="6.43745688119419" />
+      <entry key="M2" value="14.176848468409357" />
+      <entry key="M5" value="30.585477549518085" />
+      <entry key="M10" value="53.90178533157301" />
+      <entry key="M15" value="74.51904791998015" />
+      <entry key="M30" value="115.10829802468017" />
+      <entry key="H1" value="150.0256062126457" />
+      <entry key="H2" value="173.38357977843256" />
+      <entry key="H4" value="186.95884467892995" />
+      <entry key="D1" value="199.38416846947356" />
+      <entry key="W1" value="201.62354193930713" />
     </decayedShown>
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3FtYxioJrKalM1cFxXManj5tuvs" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3GwYhzEXNO0AKuXEblC4nMtY06c" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Arithemetic_operator.executor": "Run",
-    "Application.Compound_Interest_Calculator.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Scanner_example.executor": "Run",
-    "Application.Shopping_Cart_Program.executor": "Run",
-    "Application.String_method.executor": "Run",
-    "Application.Sub_String.executor": "Debug",
-    "Application.area_of_rectangle.executor": "Run",
-    "Application.if_statements.executor": "Run",
-    "Application.mad_libs_game.executor": "Run",
-    "Application.main.executor": "Run",
-    "Application.math_fuc.executor": "Run",
-    "Application.nested_if_else.executor": "Run",
-    "Application.printf_function.executor": "Run",
-    "Application.random_number.executor": "Run",
-    "Application.weight_convertor.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Application.Calculator.executor": "Run",
+    "Application.swtich_case.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -138,75 +116,9 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.weight_convertor">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Coding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sub_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sub_String" />
-      <module name="Coding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="Coding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="swtich_case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swtich_case" />
-      <module name="Coding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="temperature_convertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="temperature_convertor" />
-      <module name="Coding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="weight_convertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weight_convertor" />
-      <module name="Coding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-      <module name="Coding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="weight_convertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weight_convertor" />
-      <module name="Coding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.swtich_case" />
-        <item itemvalue="Application.temperature_convertor" />
-        <item itemvalue="Application.weight_convertor" />
-        <item itemvalue="Application.Sub_String" />
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -217,36 +129,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f7d11ef0-dcc9-43b3-952c-3fcbd4407681" name="Changes" comment="" />
-      <created>1782896083073</created>
+      <changelist id="ca2cf30f-5280-41ba-b10f-6cc6f5e0e104" name="Changes" comment="" />
+      <created>1784884226116</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1782896083073</updated>
+      <updated>1784884226116</updated>
     </task>
-    <task id="LOCAL-00001" summary="3 new programs&#10;&#10;reached program 18">
-      <option name="closed" value="true" />
-      <created>1784746234209</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1784746234209</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="3 new programs&#10;&#10;reached program 16" />
-    <MESSAGE value="3 new programs&#10;&#10;reached program 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 new programs&#10;&#10;reached program 18" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Java$Main.ic" NAME="Main Coverage Results" MODIFIED="1784057216998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>

@@ -19,7 +19,5 @@ public class swtich_case {
                         System.out.println(day + " is not a day");
                 }
 
-
-
         }
 }
