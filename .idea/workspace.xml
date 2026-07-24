@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7d11ef0-dcc9-43b3-952c-3fcbd4407681" name="Changes" comment="program 19" />
+<list default="true" id="f7d11ef0-dcc9-43b3-952c-3fcbd4407681" name="Changes" comment="program 19">
+      <change afterPath="$PROJECT_DIR$/Sub_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weight_convertor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/String_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="29" />
+<option name="cachedIndexableFilesCount" value="29" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,61 +38,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000125670016062" />
-      <entry key="S2" value="1.059539874877746" />
-      <entry key="S5" value="1.3235364140294243" />
-      <entry key="S10" value="1.5688228305374752" />
-      <entry key="S30" value="1.855795261752872" />
-      <entry key="S60" value="2.07535925748159" />
-      <entry key="M2" value="2.3960221806201845" />
-      <entry key="M5" value="4.863401588512858" />
-      <entry key="M10" value="12.215789921974238" />
-      <entry key="M15" value="18.354687108772893" />
-      <entry key="M30" value="28.65414956765498" />
-      <entry key="H1" value="38.55037028542469" />
-      <entry key="H2" value="67.59170806654416" />
-      <entry key="H4" value="138.4284776821842" />
-      <entry key="D1" value="395.22926244624585" />
-      <entry key="W1" value="524.5938829760098" />
+      <entry key="MS100" value="1.0000000000000002" />
+      <entry key="MS500" value="1.0006523799210945" />
+      <entry key="S2" value="1.1600901023380563" />
+      <entry key="S5" value="1.5177330529738853" />
+      <entry key="S10" value="1.8891420407341246" />
+      <entry key="S30" value="2.7827923025629833" />
+      <entry key="S60" value="4.670645020042845" />
+      <entry key="M2" value="9.986396342666723" />
+      <entry key="M5" value="26.31913098223711" />
+      <entry key="M10" value="49.738085440227515" />
+      <entry key="M15" value="69.18974689265579" />
+      <entry key="M30" value="108.0364569856342" />
+      <entry key="H1" value="143.34596911009245" />
+      <entry key="H2" value="168.77067182049345" />
+      <entry key="H4" value="192.43612917624313" />
+      <entry key="D1" value="303.2006052383916" />
+      <entry key="W1" value="366.9592176385782" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="5.623070142803574E-148" />
-      <entry key="S5" value="1.2588978636633224E-59" />
-      <entry key="S10" value="3.5539877200228496E-30" />
-      <entry key="S30" value="1.806643076348241E-10" />
-      <entry key="S60" value="2.2000132117744092E-5" />
-      <entry key="M2" value="0.01051570316823933" />
-      <entry key="M5" value="0.5443306391142224" />
-      <entry key="M10" value="2.167082307717939" />
-      <entry key="M15" value="3.4660500697840266" />
-      <entry key="M30" value="5.574827643579544" />
-      <entry key="H1" value="7.503105733114681" />
-      <entry key="H2" value="12.97219995571559" />
-      <entry key="H4" value="26.856243408354878" />
-      <entry key="D1" value="88.33851861642056" />
-      <entry key="W1" value="123.24237929170012" />
+      <entry key="MS100" value="1.1371517248157859E-8" />
+      <entry key="MS500" value="0.025772923394065037" />
+      <entry key="S2" value="0.40067377768413814" />
+      <entry key="S5" value="0.6936117479072447" />
+      <entry key="S10" value="0.8331885941610327" />
+      <entry key="S30" value="1.0477544749490404" />
+      <entry key="S60" value="1.632450481301827" />
+      <entry key="M2" value="3.3631562560910924" />
+      <entry key="M5" value="8.03489794928777" />
+      <entry key="M10" value="13.238244427076669" />
+      <entry key="M15" value="17.115471035284507" />
+      <entry key="M30" value="24.748940119675616" />
+      <entry key="H1" value="31.901371791676606" />
+      <entry key="H2" value="37.28836223114315" />
+      <entry key="H4" value="43.36348264870748" />
+      <entry key="D1" value="78.74301379419693" />
+      <entry key="W1" value="98.71043298526342" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.309414103722624E-15" />
-      <entry key="MS500" value="0.0010653243508642496" />
-      <entry key="S2" value="0.236374382237774" />
-      <entry key="S5" value="0.8198975053041433" />
-      <entry key="S10" value="1.2720164953604876" />
-      <entry key="S30" value="1.7445899604125361" />
-      <entry key="S60" value="2.0180494780995444" />
-      <entry key="M2" value="2.3768699420935606" />
-      <entry key="M5" value="5.385515886199702" />
-      <entry key="M10" value="14.35653993755144" />
-      <entry key="M15" value="21.795078135770048" />
-      <entry key="M30" value="34.209549667804595" />
-      <entry key="H1" value="46.040734863858574" />
-      <entry key="H2" value="80.55335119993633" />
-      <entry key="H4" value="165.27434900177715" />
-      <entry key="D1" value="483.56296341249606" />
-      <entry key="W1" value="647.8353596498247" />
+      <entry key="MS100" value="3.1117215554667024E-4" />
+      <entry key="MS500" value="0.20947509097229464" />
+      <entry key="S2" value="1.086785766890355" />
+      <entry key="S5" value="1.9149772218705197" />
+      <entry key="S10" value="2.535292855683383" />
+      <entry key="S30" value="3.7439722007745644" />
+      <entry key="S60" value="6.231963287671705" />
+      <entry key="M2" value="13.271749983714441" />
+      <entry key="M5" value="34.26606627624188" />
+      <entry key="M10" value="62.88683203646424" />
+      <entry key="M15" value="86.2200899211542" />
+      <entry key="M30" value="132.71831539454612" />
+      <entry key="H1" value="175.2031558334114" />
+      <entry key="H2" value="206.0332077675734" />
+      <entry key="H4" value="235.78491960903176" />
+      <entry key="D1" value="381.9398294962901" />
+      <entry key="W1" value="465.66900787072836" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -101,46 +107,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Arithemetic_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Compound_Interest_Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Scanner_example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shopping_Cart_Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sub_String.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.area_of_rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.if_statements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.mad_libs_game.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.math_fuc.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nested_if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printf_function.executor&quot;: &quot;Run&quot;,
-    &quot;Application.random_number.executor&quot;: &quot;Run&quot;,
-    &quot;Application.swtich_case.executor&quot;: &quot;Run&quot;,
-    &quot;Application.temperature_convertor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ternary_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.weight_convertor.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arithemetic_operator.executor": "Run",
+    "Application.Compound_Interest_Calculator.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Scanner_example.executor": "Run",
+    "Application.Shopping_Cart_Program.executor": "Run",
+    "Application.String_method.executor": "Run",
+    "Application.Sub_String.executor": "Debug",
+    "Application.area_of_rectangle.executor": "Run",
+    "Application.if_statements.executor": "Run",
+    "Application.mad_libs_game.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.math_fuc.executor": "Run",
+    "Application.nested_if_else.executor": "Run",
+    "Application.printf_function.executor": "Run",
+    "Application.random_number.executor": "Run",
+    "Application.weight_convertor.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.swtich_case">
+}]]></component>
+  <component name="RunManager" selected="Application.weight_convertor">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Coding" />
@@ -155,6 +157,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="Coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="swtich_case" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="swtich_case" />
       <module name="Coding" />
@@ -164,6 +173,18 @@
     </configuration>
     <configuration name="temperature_convertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="temperature_convertor" />
+      <module name="Coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="weight_convertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weight_convertor" />
+      <module name="Coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
       <module name="Coding" />
       <method v="2">
         <option name="Make" enabled="true" />
