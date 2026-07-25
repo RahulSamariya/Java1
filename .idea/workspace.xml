@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca2cf30f-5280-41ba-b10f-6cc6f5e0e104" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/For_Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number_Guessing_Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coding/swtich_case.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/swtich_case.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swtich_case.java" beforeDir="false" afterPath="$PROJECT_DIR$/swtich_case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logical_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/logical_Operator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="32" />
+    <option name="cachedIndexableFilesCount" value="34" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,66 +36,66 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000000022" />
-      <entry key="S2" value="1.0002447391334992" />
-      <entry key="S5" value="1.0563784653105732" />
-      <entry key="S10" value="1.4054579812216523" />
-      <entry key="S30" value="3.022565826856014" />
-      <entry key="S60" value="6.285590864045301" />
-      <entry key="M2" value="13.51662787124776" />
-      <entry key="M5" value="28.480727941362307" />
-      <entry key="M10" value="49.34338983234605" />
-      <entry key="M15" value="67.78187689262894" />
-      <entry key="M30" value="104.1242359815837" />
-      <entry key="H1" value="135.4121546955654" />
-      <entry key="H2" value="156.3479898923866" />
-      <entry key="H4" value="168.51669571963987" />
-      <entry key="D1" value="179.65506402352068" />
-      <entry key="W1" value="181.66252724386396" />
+      <entry key="MS500" value="1.0002895383559909" />
+      <entry key="S2" value="1.1529945848887124" />
+      <entry key="S5" value="2.0432055655859664" />
+      <entry key="S10" value="3.837787890342698" />
+      <entry key="S30" value="8.009312818174312" />
+      <entry key="S60" value="10.926175895157678" />
+      <entry key="M2" value="15.989137857021184" />
+      <entry key="M5" value="30.959859337515333" />
+      <entry key="M10" value="48.54227602568191" />
+      <entry key="M15" value="61.335030629599096" />
+      <entry key="M30" value="90.30873659315176" />
+      <entry key="H1" value="139.26301006481674" />
+      <entry key="H2" value="224.63033857702916" />
+      <entry key="H4" value="334.27913466806996" />
+      <entry key="D1" value="524.9388208696795" />
+      <entry key="W1" value="574.1528572324006" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.9663614532979723E-90" />
-      <entry key="S2" value="3.74468971626691E-23" />
-      <entry key="S5" value="1.0699629537704325E-9" />
-      <entry key="S10" value="3.278718512349902E-5" />
-      <entry key="S30" value="0.03624147980018047" />
-      <entry key="S60" value="0.2474978953165357" />
-      <entry key="M2" value="0.7644618465087746" />
-      <entry key="M5" value="2.192759037122545" />
-      <entry key="M10" value="4.636753676719482" />
-      <entry key="M15" value="6.810815031691877" />
-      <entry key="M30" value="11.042878520475835" />
-      <entry key="H1" value="14.652631176894948" />
-      <entry key="H2" value="17.05850453361095" />
-      <entry key="H4" value="18.45458099022499" />
-      <entry key="D1" value="19.731325958704872" />
-      <entry key="W1" value="19.961335914897774" />
+      <entry key="MS500" value="6.000803426997964E-123" />
+      <entry key="S2" value="2.785156200827222E-31" />
+      <entry key="S5" value="6.322174139922061E-13" />
+      <entry key="S10" value="9.67725748516788E-7" />
+      <entry key="S30" value="0.017839022331220502" />
+      <entry key="S60" value="0.2541238733580242" />
+      <entry key="M2" value="1.1852105308123948" />
+      <entry key="M5" value="4.012097306233554" />
+      <entry key="M10" value="6.707281368998145" />
+      <entry key="M15" value="8.140039938537374" />
+      <entry key="M30" value="10.550604669466013" />
+      <entry key="H1" value="14.94039898000405" />
+      <entry key="H2" value="23.59341675369278" />
+      <entry key="H4" value="35.00846316864903" />
+      <entry key="D1" value="54.93241519976306" />
+      <entry key="W1" value="60.07549999044854" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.690170841333042E-5" />
-      <entry key="MS500" value="0.13621901402666692" />
-      <entry key="S2" value="0.6077070918454822" />
-      <entry key="S5" value="0.8687340344756385" />
-      <entry key="S10" value="1.282677820685263" />
-      <entry key="S30" value="2.9726024642697295" />
-      <entry key="S60" value="6.43745688119419" />
-      <entry key="M2" value="14.176848468409357" />
-      <entry key="M5" value="30.585477549518085" />
-      <entry key="M10" value="53.90178533157301" />
-      <entry key="M15" value="74.51904791998015" />
-      <entry key="M30" value="115.10829802468017" />
-      <entry key="H1" value="150.0256062126457" />
-      <entry key="H2" value="173.38357977843256" />
-      <entry key="H4" value="186.95884467892995" />
-      <entry key="D1" value="199.38416846947356" />
-      <entry key="W1" value="201.62354193930713" />
+      <entry key="MS100" value="0.8293195458144417" />
+      <entry key="MS500" value="0.9632625932773357" />
+      <entry key="S2" value="1.03927054495973" />
+      <entry key="S5" value="1.7817838054438757" />
+      <entry key="S10" value="3.534860942316395" />
+      <entry key="S30" value="7.8050436743888705" />
+      <entry key="S60" value="11.02623025618394" />
+      <entry key="M2" value="17.061449970238268" />
+      <entry key="M5" value="34.887557108757186" />
+      <entry key="M10" value="55.18625679239673" />
+      <entry key="M15" value="69.42278786352368" />
+      <entry key="M30" value="100.82120930906447" />
+      <entry key="H1" value="154.17319180087512" />
+      <entry key="H2" value="248.19827697401422" />
+      <entry key="H4" value="369.26792623241914" />
+      <entry key="D1" value="579.8658869031897" />
+      <entry key="W1" value="634.2275155565239" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3GwYhzEXNO0AKuXEblC4nMtY06c" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -104,9 +104,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculator.executor": "Run",
+    "Application.logical_Operator.executor": "Debug",
+    "Application.number_Guessing_Game.executor": "Debug",
     "Application.swtich_case.executor": "Run",
+    "Application.whileLoop.executor": "Debug",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -119,6 +123,36 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.whileLoop">
+    <configuration name="logical_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logical_Operator" />
+      <module name="Coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="number_Guessing_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="number_Guessing_Game" />
+      <module name="Coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whileLoop" />
+      <module name="Coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.whileLoop" />
+        <item itemvalue="Application.number_Guessing_Game" />
+        <item itemvalue="Application.logical_Operator" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

@@ -1,0 +1,7 @@
+public class For_Loops {
+    public static void main(String[] args){
+
+        
+
+    }
+}
