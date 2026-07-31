@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca2cf30f-5280-41ba-b10f-6cc6f5e0e104" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Overloaded_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Banking_Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Local_Variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coding/Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/Overloaded_method.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/Overloaded_method.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="34" />
+    <option name="cachedIndexableFilesCount" value="40" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,61 +36,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000000362" />
-      <entry key="MS500" value="1.0020502368444046" />
-      <entry key="S2" value="1.2230531373022717" />
-      <entry key="S5" value="1.7687226373316691" />
-      <entry key="S10" value="2.536660760611034" />
-      <entry key="S30" value="4.253325100456612" />
-      <entry key="S60" value="5.579211498354211" />
-      <entry key="M2" value="9.441377286951553" />
-      <entry key="M5" value="30.1449751583687" />
-      <entry key="M10" value="63.792306500241" />
-      <entry key="M15" value="86.44637865589414" />
-      <entry key="M30" value="120.88303183204572" />
-      <entry key="H1" value="146.34052383292573" />
-      <entry key="H2" value="163.74926586655002" />
-      <entry key="H4" value="174.6908798310833" />
-      <entry key="D1" value="207.13115408362142" />
-      <entry key="W1" value="646.6099957646387" />
+      <entry key="MS100" value="1.0925840408858408E-87" />
+      <entry key="MS500" value="4.053160979845256E-18" />
+      <entry key="S2" value="5.3909964168100606E-5" />
+      <entry key="S5" value="0.03606432013782128" />
+      <entry key="S10" value="0.3648051792371573" />
+      <entry key="S30" value="1.800983643849925" />
+      <entry key="S60" value="3.105800674892925" />
+      <entry key="M2" value="6.721775492129846" />
+      <entry key="M5" value="19.5715471744111" />
+      <entry key="M10" value="33.791477149900565" />
+      <entry key="M15" value="43.321528520655" />
+      <entry key="M30" value="61.24273739672122" />
+      <entry key="H1" value="88.44081208591612" />
+      <entry key="H2" value="138.66769481771647" />
+      <entry key="H4" value="199.15968360063613" />
+      <entry key="D1" value="311.34677531821666" />
+      <entry key="W1" value="765.9027031529699" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="3.6020745027533853E-211" />
-      <entry key="S2" value="2.4498425466695817E-53" />
-      <entry key="S5" value="9.02972915717947E-22" />
-      <entry key="S10" value="3.0273546214009604E-11" />
-      <entry key="S30" value="3.986593955716097E-4" />
-      <entry key="S60" value="0.03098242072095906" />
-      <entry key="M2" value="0.330530173778964" />
-      <entry key="M5" value="2.074898335148085" />
-      <entry key="M10" value="4.869800691347774" />
-      <entry key="M15" value="6.766341654722077" />
-      <entry key="M30" value="9.771501097727098" />
-      <entry key="H1" value="12.365453524309595" />
-      <entry key="H2" value="14.504154247765948" />
-      <entry key="H4" value="16.014745766915446" />
-      <entry key="D1" value="20.44200154148683" />
-      <entry key="W1" value="74.00726519265265" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000000002" />
+      <entry key="S2" value="1.0001052056641364" />
+      <entry key="S5" value="1.0256339568495743" />
+      <entry key="S10" value="1.1601060813527844" />
+      <entry key="S30" value="1.544260088085569" />
+      <entry key="S60" value="1.7909362675820577" />
+      <entry key="M2" value="2.3418459733293746" />
+      <entry key="M5" value="4.201322851534295" />
+      <entry key="M10" value="6.106644595147908" />
+      <entry key="M15" value="7.229242393823066" />
+      <entry key="M30" value="9.027405631883044" />
+      <entry key="H1" value="11.334460521147708" />
+      <entry key="H2" value="15.574926286414403" />
+      <entry key="H4" value="20.92381692452862" />
+      <entry key="D1" value="32.04864273982413" />
+      <entry key="W1" value="86.81401414136796" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.012779719664965335" />
-      <entry key="MS500" value="0.4185198090097417" />
-      <entry key="S2" value="0.9518364479755651" />
-      <entry key="S5" value="1.5704050111729246" />
-      <entry key="S10" value="2.3806422755561356" />
-      <entry key="S30" value="4.163831908840608" />
-      <entry key="S60" value="5.552209794774538" />
-      <entry key="M2" value="9.726827493440378" />
-      <entry key="M5" value="32.16995594011452" />
-      <entry key="M10" value="68.61124779642994" />
-      <entry key="M15" value="93.16709103174584" />
-      <entry key="M30" value="130.62277022293853" />
-      <entry key="H1" value="158.6867969331563" />
-      <entry key="H2" value="178.24270660174028" />
-      <entry key="H4" value="190.69991602344874" />
-      <entry key="D1" value="227.5719167260525" />
-      <entry key="W1" value="720.6164240249664" />
+      <entry key="MS100" value="0.0025416833114100257" />
+      <entry key="MS500" value="0.3027082709876385" />
+      <entry key="S2" value="0.7418358618379576" />
+      <entry key="S5" value="0.935810349725252" />
+      <entry key="S10" value="1.4100176657459904" />
+      <entry key="S30" value="3.2425974152080324" />
+      <entry key="S60" value="4.821822482226689" />
+      <entry key="M2" value="9.000651207589517" />
+      <entry key="M5" value="23.698237838744884" />
+      <entry key="M10" value="39.81249671881748" />
+      <entry key="M15" value="50.46751206827414" />
+      <entry key="M30" value="70.20539835989167" />
+      <entry key="H1" value="99.73236457040558" />
+      <entry key="H2" value="154.21575401846718" />
+      <entry key="H4" value="220.06751302903575" />
+      <entry key="D1" value="343.3919602234416" />
+      <entry key="W1" value="852.7155531441105" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -102,12 +104,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Banking_Program.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.For_Loops.executor": "Run",
+    "Application.Local_Variable.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Overloaded_method.executor": "Run",
     "Application.break_Continue.executor": "Run",
-    "Application.logical_Operator.executor": "Debug",
+    "Application.logical_Operator.executor": "Run",
     "Application.nested_loop.executor": "Run",
     "Application.number_Guessing_Game.executor": "Debug",
     "Application.swtich_case.executor": "Run",
@@ -127,7 +131,14 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Banking_Program">
+    <configuration name="Banking_Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Banking_Program" />
+      <module name="Coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="logical_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="logical_Operator" />
       <module name="Coding" />
@@ -151,9 +162,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Banking_Program" />
+        <item itemvalue="Application.logical_Operator" />
         <item itemvalue="Application.whileLoop" />
         <item itemvalue="Application.number_Guessing_Game" />
-        <item itemvalue="Application.logical_Operator" />
       </list>
     </recent_temporary>
   </component>

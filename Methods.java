@@ -30,7 +30,7 @@ public class Methods {
     static String getFullName(String first, String last) {
         return first + " " + last;
     }
-    static boolean ageCheck(int age) {
+    static boolean ageCheck(int age){
         if(age >= 18){
             return true;
         }
