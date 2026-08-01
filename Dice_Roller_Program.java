@@ -17,7 +17,6 @@ public class Dice_Roller_Program {
             for(int i = 0; i < numOfDice; i++){
                 int roll = random.nextInt(1, 7);
                 System.out.println("You Rolled: " + roll);
-                printDie(roll);
                 total += roll;
             }
             System.out.println("Total: " + total);

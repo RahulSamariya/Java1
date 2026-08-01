@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca2cf30f-5280-41ba-b10f-6cc6f5e0e104" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dice_Roller_Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays_input.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Banking_Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Banking_Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coding/Banking_Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/Banking_Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coding/Local_Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/Local_Variable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dice_Roller_Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dice_Roller_Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/Dice_Roller_Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/Dice_Roller_Program.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,61 +36,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.00000417439919" />
-      <entry key="S2" value="1.0452010469793818" />
-      <entry key="S5" value="1.2897742915566448" />
-      <entry key="S10" value="1.539757754028188" />
-      <entry key="S30" value="2.3737788987014303" />
-      <entry key="S60" value="5.064366878460059" />
-      <entry key="M2" value="10.476228238106307" />
-      <entry key="M5" value="18.35981678460813" />
-      <entry key="M10" value="22.657316723786675" />
-      <entry key="M15" value="24.778170303418623" />
-      <entry key="M30" value="29.563947393073057" />
-      <entry key="H1" value="36.45779619956258" />
-      <entry key="H2" value="49.064529728093646" />
-      <entry key="H4" value="81.081206052416" />
-      <entry key="D1" value="328.9899377028645" />
-      <entry key="W1" value="894.07712757837" />
+      <entry key="MS100" value="7.483352963365906E-33" />
+      <entry key="MS500" value="4.2722088378388305E-7" />
+      <entry key="S2" value="0.04688737516909938" />
+      <entry key="S5" value="0.6450534367122489" />
+      <entry key="S10" value="1.962588330382395" />
+      <entry key="S30" value="6.28440197805794" />
+      <entry key="S60" value="10.8925179948639" />
+      <entry key="M2" value="17.106487703684035" />
+      <entry key="M5" value="28.319191196204997" />
+      <entry key="M10" value="38.02270023062735" />
+      <entry key="M15" value="43.05372132332579" />
+      <entry key="M30" value="49.607272402948915" />
+      <entry key="H1" value="56.436140288348355" />
+      <entry key="H2" value="76.4509085918396" />
+      <entry key="H4" value="121.77488049394123" />
+      <entry key="D1" value="413.1807680231673" />
+      <entry key="W1" value="1023.5887749103583" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="6.46879352306209E-7" />
-      <entry key="MS500" value="0.05783152675236576" />
-      <entry key="S2" value="0.4903895019942756" />
-      <entry key="S5" value="0.7519977908061949" />
-      <entry key="S10" value="0.8675919389898405" />
-      <entry key="S30" value="1.0315156138156922" />
-      <entry key="S60" value="1.3076788056136288" />
-      <entry key="M2" value="1.7518379239697977" />
-      <entry key="M5" value="2.332762151664441" />
-      <entry key="M10" value="2.646300028425043" />
-      <entry key="M15" value="2.8671925100520608" />
-      <entry key="M30" value="3.7299373233654527" />
-      <entry key="H1" value="5.361708476945924" />
-      <entry key="H2" value="8.76398289050272" />
-      <entry key="H4" value="16.348584302581788" />
-      <entry key="D1" value="53.027754047081665" />
-      <entry key="W1" value="122.06230848437082" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000007365488" />
+      <entry key="S5" value="1.000222269867505" />
+      <entry key="S10" value="1.0149087189765367" />
+      <entry key="S30" value="1.2475846893581135" />
+      <entry key="S60" value="1.5546519947820951" />
+      <entry key="M2" value="2.1587594669844554" />
+      <entry key="M5" value="3.891702469927257" />
+      <entry key="M10" value="5.580880270815868" />
+      <entry key="M15" value="6.455741496921515" />
+      <entry key="M30" value="7.591233312428661" />
+      <entry key="H1" value="9.055287167099223" />
+      <entry key="H2" value="14.090710333684887" />
+      <entry key="H4" value="25.298828996513656" />
+      <entry key="D1" value="76.76527673817262" />
+      <entry key="W1" value="155.13689711398354" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.012779719665000317" />
-      <entry key="MS500" value="0.4201601147385407" />
-      <entry key="S2" value="1.0469042415695584" />
-      <entry key="S5" value="1.7017218586730913" />
-      <entry key="S10" value="2.1898110786404925" />
-      <entry key="S30" value="3.311931791850897" />
-      <entry key="S60" value="6.307552216572172" />
-      <entry key="M2" value="12.177903998159083" />
-      <entry key="M5" value="20.662104851780704" />
-      <entry key="M10" value="25.285550381833247" />
-      <entry key="M15" value="27.632288344377393" />
-      <entry key="M30" value="33.285872734189304" />
-      <entry key="H1" value="41.814242176724456" />
-      <entry key="H2" value="57.824501897007565" />
-      <entry key="H4" value="97.42576809273298" />
-      <entry key="D1" value="382.0143442963824" />
-      <entry key="W1" value="1016.1381111737104" />
+      <entry key="MS100" value="2.13337434476103E-12" />
+      <entry key="MS500" value="0.004632624376349067" />
+      <entry key="S2" value="0.29434979937397215" />
+      <entry key="S5" value="1.139978097274413" />
+      <entry key="S10" value="2.601429921129208" />
+      <entry key="S30" value="7.296073634563499" />
+      <entry key="S60" value="12.281745877712181" />
+      <entry key="M2" value="19.15364513754303" />
+      <entry key="M5" value="32.14334590140938" />
+      <entry key="M10" value="43.55894343812319" />
+      <entry key="M15" value="49.47583540286066" />
+      <entry key="M30" value="57.17913065103321" />
+      <entry key="H1" value="65.48030779463902" />
+      <entry key="H2" value="90.53388858753797" />
+      <entry key="H4" value="147.06732933815843" />
+      <entry key="D1" value="489.9419852274323" />
+      <entry key="W1" value="1178.7241808644117" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -103,13 +104,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.Arrays.executor": "Run",
     "Application.Banking_Program.executor": "Run",
     "Application.Calculator.executor": "Run",
-    "Application.Dice_Roller_Program.executor": "Debug",
+    "Application.Dice_Roller_Program.executor": "Run",
     "Application.For_Loops.executor": "Run",
     "Application.Local_Variable.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Overloaded_method.executor": "Run",
+    "Application.arrays_input.executor": "Run",
     "Application.break_Continue.executor": "Run",
     "Application.logical_Operator.executor": "Run",
     "Application.nested_loop.executor": "Run",
@@ -131,7 +135,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Dice_Roller_Program">
+  <component name="RunManager">
     <configuration name="Banking_Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Banking_Program" />
       <module name="Coding" />
