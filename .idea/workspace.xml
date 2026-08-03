@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca2cf30f-5280-41ba-b10f-6cc6f5e0e104" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Bubble_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz_game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/varargs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/array_search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coding/arrays_input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/arrays_input.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="40" />
+    <option name="cachedIndexableFilesCount" value="49" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,61 +33,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000074394" />
-      <entry key="S2" value="1.0023979004180872" />
-      <entry key="S5" value="1.1640738367022085" />
-      <entry key="S10" value="1.8549086214216572" />
-      <entry key="S30" value="4.04597903733238" />
-      <entry key="S60" value="5.462162875623312" />
-      <entry key="M2" value="7.651137436832612" />
-      <entry key="M5" value="18.044747501878355" />
-      <entry key="M10" value="31.905115357154013" />
-      <entry key="M15" value="39.98366566519412" />
-      <entry key="M30" value="51.099860598627295" />
-      <entry key="H1" value="61.39081535996913" />
-      <entry key="H2" value="80.45113575399319" />
-      <entry key="H4" value="111.23022270942721" />
-      <entry key="D1" value="388.50155152650234" />
-      <entry key="W1" value="1115.712690805303" />
+      <entry key="MS100" value="1.0000002502719603" />
+      <entry key="MS500" value="1.0478280798245518" />
+      <entry key="S2" value="1.4836399055902358" />
+      <entry key="S5" value="1.9984214798746178" />
+      <entry key="S10" value="2.6665676828524063" />
+      <entry key="S30" value="3.8684074101599375" />
+      <entry key="S60" value="5.069457867023668" />
+      <entry key="M2" value="9.936018696995625" />
+      <entry key="M5" value="24.218529285452142" />
+      <entry key="M10" value="35.28937020027813" />
+      <entry key="M15" value="40.28988189519251" />
+      <entry key="M30" value="46.23729622953512" />
+      <entry key="H1" value="52.172586529191086" />
+      <entry key="H2" value="68.62040356752829" />
+      <entry key="H4" value="104.80751472126121" />
+      <entry key="D1" value="398.40402782725357" />
+      <entry key="W1" value="1154.229748154928" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.698677873333666E-219" />
-      <entry key="MS500" value="1.9329926810571376E-44" />
-      <entry key="S2" value="1.179118768917471E-11" />
-      <entry key="S5" value="4.2523374678465594E-5" />
-      <entry key="S10" value="0.006542416914089196" />
-      <entry key="S30" value="0.21541133195351986" />
-      <entry key="S60" value="0.6357721378625885" />
-      <entry key="M2" value="1.423836413923825" />
-      <entry key="M5" value="3.4751162492972485" />
-      <entry key="M10" value="5.374686263406111" />
-      <entry key="M15" value="6.327284634137917" />
-      <entry key="M30" value="7.52492448261313" />
-      <entry key="H1" value="8.504309888421322" />
-      <entry key="H2" value="10.251199433878321" />
-      <entry key="H4" value="13.565796385997508" />
-      <entry key="D1" value="60.559049103252626" />
-      <entry key="W1" value="162.2498984677046" />
+      <entry key="MS100" value="7.882000810064468E-20" />
+      <entry key="MS500" value="1.5112186167449284E-4" />
+      <entry key="S2" value="0.11087453814401872" />
+      <entry key="S5" value="0.4148897728728443" />
+      <entry key="S10" value="0.6441193778867063" />
+      <entry key="S30" value="0.8647880665510084" />
+      <entry key="S60" value="1.0157918752527282" />
+      <entry key="M2" value="1.7625206549885999" />
+      <entry key="M5" value="4.129637406042189" />
+      <entry key="M10" value="5.996823606400403" />
+      <entry key="M15" value="6.843387527007747" />
+      <entry key="M30" value="7.847255001374002" />
+      <entry key="H1" value="8.726418899583507" />
+      <entry key="H2" value="10.716059690357643" />
+      <entry key="H4" value="14.873134680454896" />
+      <entry key="D1" value="61.87671643598052" />
+      <entry key="W1" value="168.14337878315575" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8888426811665702" />
-      <entry key="MS500" value="0.9767085289680306" />
-      <entry key="S2" value="0.9964071535873231" />
-      <entry key="S5" value="1.1568737120536126" />
-      <entry key="S10" value="1.841344610441031" />
-      <entry key="S30" value="4.227422662860135" />
-      <entry key="S60" value="6.065921811277129" />
-      <entry key="M2" value="9.042551307329669" />
-      <entry key="M5" value="21.479596724056485" />
-      <entry key="M10" value="37.243152994363776" />
-      <entry key="M15" value="46.280313050239464" />
-      <entry key="M30" value="58.605275086339354" />
-      <entry key="H1" value="69.8834450300335" />
-      <entry key="H2" value="90.69454586498458" />
-      <entry key="H4" value="124.7904323840335" />
-      <entry key="D1" value="449.05695047877083" />
-      <entry key="W1" value="1277.9609972292524" />
+      <entry key="MS100" value="0.8888428960414249" />
+      <entry key="MS500" value="1.0231051694625652" />
+      <entry key="S2" value="1.5137386444915082" />
+      <entry key="S5" value="2.230698881810854" />
+      <entry key="S10" value="3.11321658756446" />
+      <entry key="S30" value="4.605904089682265" />
+      <entry key="S60" value="5.998870964341492" />
+      <entry key="M2" value="11.617289864087198" />
+      <entry key="M5" value="28.271832380010167" />
+      <entry key="M10" value="41.23104507485248" />
+      <entry key="M15" value="47.09138488895548" />
+      <entry key="M30" value="54.06057684827329" />
+      <entry key="H1" value="60.885691488437075" />
+      <entry key="H2" value="79.32819380078713" />
+      <entry key="H4" value="119.67468703635986" />
+      <entry key="D1" value="460.27695200020383" />
+      <entry key="W1" value="1322.3714783719204" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -121,6 +119,7 @@
     "Application.nested_loop.executor": "Run",
     "Application.number_Guessing_Game.executor": "Debug",
     "Application.swtich_case.executor": "Run",
+    "Application.varargs.executor": "Run",
     "Application.whileLoop.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -134,10 +133,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Matrix">
+  <component name="RunManager" selected="Application.array_search">
     <configuration name="Banking_Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Banking_Program" />
       <module name="Coding" />
