@@ -51,6 +51,7 @@ public class Quiz_game {
 
         System.out.println("Your Final Score is " + score + " out of the " + questions.length);
 
+        scanner.close();
 
     }
 }
