@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca2cf30f-5280-41ba-b10f-6cc6f5e0e104" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quiz_game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz_game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Coding/Quiz_game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/Quiz_game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rockPaperScissor.java" beforeDir="false" afterPath="$PROJECT_DIR$/rockPaperScissor.java" afterDir="false" />
-    </list>
+    <list default="true" id="ca2cf30f-5280-41ba-b10f-6cc6f5e0e104" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="49" />
+    <option name="cachedIndexableFilesCount" value="51" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
