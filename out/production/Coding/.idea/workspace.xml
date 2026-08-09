@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca2cf30f-5280-41ba-b10f-6cc6f5e0e104" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Java_Slot_Machine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quiz_game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz_game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="49" />
+    <option name="cachedIndexableFilesCount" value="52" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,61 +32,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="8.998225203192752E-5" />
-      <entry key="MS500" value="0.155178436440764" />
-      <entry key="S2" value="0.6276359956413216" />
-      <entry key="S5" value="0.8300096414159582" />
-      <entry key="S10" value="0.9110624032399328" />
-      <entry key="S30" value="1.0997942101646498" />
-      <entry key="S60" value="2.6718749964741346" />
-      <entry key="M2" value="8.758322971860265" />
-      <entry key="M5" value="25.1599891780401" />
-      <entry key="M10" value="38.40251994472972" />
-      <entry key="M15" value="44.604693699207964" />
-      <entry key="M30" value="52.04719004214668" />
-      <entry key="H1" value="56.814302118361" />
-      <entry key="H2" value="65.33800116164767" />
-      <entry key="H4" value="92.62728229362435" />
-      <entry key="D1" value="389.13913858031793" />
-      <entry key="W1" value="1183.746269240588" />
+      <entry key="MS100" value="1.0000009457604901" />
+      <entry key="MS500" value="1.104996168156219" />
+      <entry key="S2" value="1.9556739995141674" />
+      <entry key="S5" value="2.4887328070308827" />
+      <entry key="S10" value="2.771709220274251" />
+      <entry key="S30" value="4.067245282796631" />
+      <entry key="S60" value="6.543707223314319" />
+      <entry key="M2" value="11.282251703507013" />
+      <entry key="M5" value="21.8552818703163" />
+      <entry key="M10" value="39.60380782870876" />
+      <entry key="M15" value="58.02368432573688" />
+      <entry key="M30" value="102.1851863803001" />
+      <entry key="H1" value="148.55055767585102" />
+      <entry key="H2" value="187.85183983838687" />
+      <entry key="H4" value="232.25288759832063" />
+      <entry key="D1" value="544.1875610911646" />
+      <entry key="W1" value="1347.3368777609433" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000935336497527" />
-      <entry key="S2" value="1.1169054729451484" />
-      <entry key="S5" value="1.5985407903234212" />
-      <entry key="S10" value="2.083654674326624" />
-      <entry key="S30" value="2.8183785141888054" />
-      <entry key="S60" value="3.6715285932775736" />
-      <entry key="M2" value="5.731130566491597" />
-      <entry key="M5" value="10.155654580739542" />
-      <entry key="M10" value="13.245941802222719" />
-      <entry key="M15" value="14.604572439114502" />
-      <entry key="M30" value="16.177291009156374" />
-      <entry key="H1" value="17.13832474376616" />
-      <entry key="H2" value="18.57040082386385" />
-      <entry key="H4" value="22.4173216354853" />
-      <entry key="D1" value="68.95466452705297" />
-      <entry key="W1" value="181.55541366085757" />
+      <entry key="MS100" value="2.431305042997523E-115" />
+      <entry key="MS500" value="1.1944497673150763E-23" />
+      <entry key="S2" value="1.8590538755483554E-6" />
+      <entry key="S5" value="0.005104606998397466" />
+      <entry key="S10" value="0.07312885022025581" />
+      <entry key="S30" value="0.5591105921620274" />
+      <entry key="S60" value="1.2631576210685198" />
+      <entry key="M2" value="2.5850860005300444" />
+      <entry key="M5" value="5.749958397214226" />
+      <entry key="M10" value="10.612097422691528" />
+      <entry key="M15" value="15.693757469575829" />
+      <entry key="M30" value="28.068751069027872" />
+      <entry key="H1" value="41.09623539221421" />
+      <entry key="H2" value="51.58970513312129" />
+      <entry key="H4" value="60.832551256706516" />
+      <entry key="D1" value="112.23904682505687" />
+      <entry key="W1" value="226.68221283703" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.004549740574397419" />
-      <entry key="MS500" value="0.34481571608395434" />
-      <entry key="S2" value="1.116119345274081" />
-      <entry key="S5" value="2.0147628632972183" />
-      <entry key="S10" value="2.730228684266685" />
-      <entry key="S30" value="3.8014563722314794" />
-      <entry key="S60" value="6.24468967674506" />
-      <entry key="M2" value="14.373708868499635" />
-      <entry key="M5" value="35.20704657171698" />
-      <entry key="M10" value="51.57140660989704" />
-      <entry key="M15" value="59.151098237569585" />
-      <entry key="M30" value="68.1914198207397" />
-      <entry key="H1" value="73.93485020630573" />
-      <entry key="H2" value="83.89846885416723" />
-      <entry key="H4" value="115.03809850414397" />
-      <entry key="D1" value="458.08989404152715" />
-      <entry key="W1" value="1365.2999670381578" />
+      <entry key="MS100" value="0.014782394179359627" />
+      <entry key="MS500" value="0.4853578361243727" />
+      <entry key="S2" value="1.5695050692516095" />
+      <entry key="S5" value="2.2733387306666857" />
+      <entry key="S10" value="2.714257705310808" />
+      <entry key="S30" value="4.551712864958361" />
+      <entry key="S60" value="7.738079652948033" />
+      <entry key="M2" value="13.798842966796427" />
+      <entry key="M5" value="27.54231769731679" />
+      <entry key="M10" value="50.14924831830898" />
+      <entry key="M15" value="73.64716664544113" />
+      <entry key="M30" value="130.18783106235446" />
+      <entry key="H1" value="189.59778023289863" />
+      <entry key="H2" value="239.41058016062834" />
+      <entry key="H4" value="293.06685213070796" />
+      <entry key="D1" value="656.4204474957721" />
+      <entry key="W1" value="1574.01703944005" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -98,44 +98,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array.executor": "Run",
-    "Application.Arrays.executor": "Run",
-    "Application.Banking_Program.executor": "Run",
-    "Application.Bubble_sort.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.Dice_Roller_Program.executor": "Run",
-    "Application.For_Loops.executor": "Run",
-    "Application.Local_Variable.executor": "Run",
-    "Application.Matrix.executor": "Run",
-    "Application.Methods.executor": "Run",
-    "Application.Overloaded_method.executor": "Run",
-    "Application.array_search.executor": "Run",
-    "Application.arrays_input.executor": "Run",
-    "Application.break_Continue.executor": "Run",
-    "Application.logical_Operator.executor": "Run",
-    "Application.nested_loop.executor": "Run",
-    "Application.number_Guessing_Game.executor": "Debug",
-    "Application.swtich_case.executor": "Run",
-    "Application.varargs.executor": "Run",
-    "Application.whileLoop.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Banking_Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bubble_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dice_Roller_Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Local_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Overloaded_method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Quiz_game.executor&quot;: &quot;Run&quot;,
+    &quot;Application.array_search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arrays_input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.break_Continue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.logical_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nested_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.number_Guessing_Game.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.rockPaperScissor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.swtich_case.executor&quot;: &quot;Run&quot;,
+    &quot;Application.varargs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.whileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.array_search">
     <configuration name="Banking_Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Banking_Program" />
@@ -158,15 +160,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="array_search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_search" />
+    <configuration name="Quiz_game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quiz_game" />
       <module name="Coding" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="logical_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logical_Operator" />
+    <configuration name="array_search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array_search" />
       <module name="Coding" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,10 +177,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.array_search" />
+        <item itemvalue="Application.Quiz_game" />
         <item itemvalue="Application.Matrix" />
         <item itemvalue="Application.Dice_Roller_Program" />
         <item itemvalue="Application.Banking_Program" />
-        <item itemvalue="Application.logical_Operator" />
       </list>
     </recent_temporary>
   </component>
