@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca2cf30f-5280-41ba-b10f-6cc6f5e0e104" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_Slot_Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Objects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Slot_Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Slot_Machine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Coding/Java_Slot_Machine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Coding/Java_Slot_Machine.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,61 +37,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1511456813140193E-152" />
-      <entry key="MS500" value="4.094749713414444E-31" />
-      <entry key="S2" value="2.6450018822668697E-8" />
-      <entry key="S5" value="0.001318179991879546" />
-      <entry key="S10" value="0.06553822804427568" />
-      <entry key="S30" value="1.430429054270628" />
-      <entry key="S60" value="4.39262329769587" />
-      <entry key="M2" value="8.964604799696824" />
-      <entry key="M5" value="15.397631903193751" />
-      <entry key="M10" value="23.418039325442887" />
-      <entry key="M15" value="34.019432512756026" />
-      <entry key="M30" value="72.73903662955627" />
-      <entry key="H1" value="134.3468817888956" />
-      <entry key="H2" value="198.33987161040244" />
-      <entry key="H4" value="262.3199155810954" />
-      <entry key="D1" value="595.7856799317572" />
-      <entry key="W1" value="1407.7117872864776" />
+      <entry key="MS100" value="1.000000000000003" />
+      <entry key="MS500" value="1.0012603149320818" />
+      <entry key="S2" value="1.1884177790387256" />
+      <entry key="S5" value="1.5183135554614786" />
+      <entry key="S10" value="1.8444296521214651" />
+      <entry key="S30" value="3.8576314686156636" />
+      <entry key="S60" value="7.054824575135341" />
+      <entry key="M2" value="11.580722779922954" />
+      <entry key="M5" value="22.532778679820037" />
+      <entry key="M10" value="35.56063311092994" />
+      <entry key="M15" value="43.517674076507205" />
+      <entry key="M30" value="55.00653530390096" />
+      <entry key="H1" value="66.28917423469089" />
+      <entry key="H2" value="107.57104737382909" />
+      <entry key="H4" value="214.53011112736004" />
+      <entry key="D1" value="719.9452837992204" />
+      <entry key="W1" value="1625.9857115185678" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000000424" />
-      <entry key="S5" value="1.0000044745243621" />
-      <entry key="S10" value="1.0021488347103877" />
-      <entry key="S30" value="1.165875596632276" />
-      <entry key="S60" value="1.626069611832708" />
-      <entry key="M2" value="2.4225797942214737" />
-      <entry key="M5" value="3.777584783846499" />
-      <entry key="M10" value="6.095302398485953" />
-      <entry key="M15" value="9.180523788270786" />
-      <entry key="M30" value="20.092515223681342" />
-      <entry key="H1" value="37.26429779536735" />
-      <entry key="H2" value="54.66862223710921" />
-      <entry key="H4" value="69.65938287644362" />
-      <entry key="D1" value="127.42927301173184" />
-      <entry key="W1" value="243.89334634686952" />
+      <entry key="MS100" value="7.64114837130595E-142" />
+      <entry key="MS500" value="5.979043684828167E-29" />
+      <entry key="S2" value="8.793424819743532E-8" />
+      <entry key="S5" value="0.0015090604872762803" />
+      <entry key="S10" value="0.04070299906492814" />
+      <entry key="S30" value="0.4625743279066457" />
+      <entry key="S60" value="0.9492497333098956" />
+      <entry key="M2" value="1.6375526821267545" />
+      <entry key="M5" value="4.3294670398325925" />
+      <entry key="M10" value="8.475054169077854" />
+      <entry key="M15" value="11.351050736814178" />
+      <entry key="M30" value="15.977900953189394" />
+      <entry key="H1" value="20.035539860771845" />
+      <entry key="H2" value="29.42330984001582" />
+      <entry key="H4" value="52.25983901614628" />
+      <entry key="D1" value="148.5514683758428" />
+      <entry key="W1" value="284.52002766154567" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.6089235180877525E-6" />
-      <entry key="MS500" value="0.08155968423055984" />
-      <entry key="S2" value="0.534403012150514" />
-      <entry key="S5" value="0.7793773196286491" />
-      <entry key="S10" value="0.9434682415531422" />
-      <entry key="S30" value="2.5109646264603076" />
-      <entry key="S60" value="5.930199775911559" />
-      <entry key="M2" value="11.303042861134312" />
-      <entry key="M5" value="19.11656409067632" />
-      <entry key="M10" value="29.47006424436593" />
-      <entry key="M15" value="43.15933849210436" />
-      <entry key="M30" value="92.78818380258578" />
-      <entry key="H1" value="171.570152521587" />
-      <entry key="H2" value="252.97787011699336" />
-      <entry key="H4" value="331.95932345888843" />
-      <entry key="D1" value="723.2082668719981" />
-      <entry key="W1" value="1651.6029930506227" />
+      <entry key="MS100" value="0.6155722066724604" />
+      <entry key="MS500" value="0.9086918149143143" />
+      <entry key="S2" value="1.1610842188631083" />
+      <entry key="S5" value="1.505644364980607" />
+      <entry key="S10" value="1.8661502900454499" />
+      <entry key="S30" value="4.263850602481873" />
+      <entry key="S60" value="7.941821711544478" />
+      <entry key="M2" value="13.165410096495156" />
+      <entry key="M5" value="26.815507611551112" />
+      <entry key="M10" value="43.994256767577696" />
+      <entry key="M15" value="54.83307004724429" />
+      <entry key="M30" value="70.96033685935319" />
+      <entry key="H1" value="86.30962643362554" />
+      <entry key="H2" value="136.98176945911848" />
+      <entry key="H4" value="266.77695722261933" />
+      <entry key="D1" value="868.4894218847127" />
+      <entry key="W1" value="1910.5033681728712" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -109,6 +114,7 @@
     "Application.For_Loops.executor": "Run",
     "Application.Java_Slot_Machine.executor": "Run",
     "Application.Local_Variable.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Matrix.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Overloaded_method.executor": "Run",
@@ -117,6 +123,7 @@
     "Application.arrays_input.executor": "Run",
     "Application.break_Continue.executor": "Run",
     "Application.logical_Operator.executor": "Run",
+    "Application.main.executor": "Run",
     "Application.nested_loop.executor": "Run",
     "Application.number_Guessing_Game.executor": "Debug",
     "Application.rockPaperScissor.executor": "Run",
@@ -140,13 +147,6 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Banking_Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Banking_Program" />
-      <module name="Coding" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Dice_Roller_Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dice_Roller_Program" />
       <module name="Coding" />
@@ -175,13 +175,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.main" />
+      <module name="Coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.array_search" />
         <item itemvalue="Application.Quiz_game" />
         <item itemvalue="Application.Matrix" />
         <item itemvalue="Application.Dice_Roller_Program" />
-        <item itemvalue="Application.Banking_Program" />
       </list>
     </recent_temporary>
   </component>
