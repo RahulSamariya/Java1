@@ -5,14 +5,16 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args){
 
-        Scanner scanner = new Scanner(System.in);
-        Random random = new Random();
+     Student student = new Student("Spongebob", 15, 5.5);
+     Student student1 = new Student("Spiderman", 18, 9.69);
 
-        Car car1 = new Car();
-        Car car2 = new Car();
+        System.out.println(student.name);
+        System.out.println(student.age);
+        System.out.println(student.gpa);
 
-        System.out.println(car1.make + " " + car1.model);
-        System.out.println(car2.make + " " + car2.model);
- 
+        System.out.println(student1.name);
+        System.out.println(student1.age);
+        System.out.println(student1.gpa);
+
     }
 }
