@@ -13,4 +13,15 @@ public class Student {
         this.age = age;
         this.gpa = gpa;
     }
+
+    Student(String name){                   // overloaded constructors
+        this.name = name;
+        this.age = age;
+        this.gpa = gpa;
+    }
+
+
+    void study(){
+        System.out.println(this.name + " is studying");
+    }
 }
