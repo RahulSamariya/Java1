@@ -5,16 +5,15 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args){
 
-     Student student = new Student("Spongebob", 15, 5.5);
-     Student student1 = new Student("Spiderman");
+        Car_Array_of_Objects car1 = new Car_Array_of_Objects("Mustang", "Blue");
+        Car_Array_of_Objects car2 = new Car_Array_of_Objects("Charger","Red");
+        Car_Array_of_Objects car3 = new Car_Array_of_Objects("Corvette", "Yellow");
 
-        System.out.println(student.name);
-        System.out.println(student.age);
-        System.out.println(student.gpa);
-        student.study();
+        Car_Array_of_Objects[] cars = {car1, car2, car3};
 
-        System.out.println(student1.name);
-        student.study();
+        for (Car_Array_of_Objects car : cars) {
+            car.drive();
+        }
 
     }
 }
