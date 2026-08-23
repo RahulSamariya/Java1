@@ -7,7 +7,7 @@ public class Objects {
         //           and can perform actions (methods)
         //           It is a refence data type
 
-
+        int i
 
     }
 }
